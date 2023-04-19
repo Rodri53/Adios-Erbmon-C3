@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Adios-Erbmon-C3/1.0.0": {
+        "runtime": {
+          "Adios-Erbmon-C3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adios-Erbmon-C3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

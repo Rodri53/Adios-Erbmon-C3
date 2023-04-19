@@ -1,6 +1,3 @@
-s (9 sloc)  299 Bytes
- 
-
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>

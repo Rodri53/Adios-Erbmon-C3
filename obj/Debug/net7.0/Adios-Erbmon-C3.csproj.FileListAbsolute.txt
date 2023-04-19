@@ -1,0 +1,15 @@
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\obj\Debug\net7.0\Adios-Erbmon-C3.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\obj\Debug\net7.0\Adios-Erbmon-C3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\obj\Debug\net7.0\Adios-Erbmon-C3.AssemblyInfoInputs.cache
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\obj\Debug\net7.0\Adios-Erbmon-C3.AssemblyInfo.cs
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\obj\Debug\net7.0\Adios-Erbmon-C3.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\bin\Debug\net7.0\Adios-Erbmon-C3.exe
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\bin\Debug\net7.0\Adios-Erbmon-C3.deps.json
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\bin\Debug\net7.0\Adios-Erbmon-C3.runtimeconfig.json
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\bin\Debug\net7.0\Adios-Erbmon-C3.dll
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\bin\Debug\net7.0\Adios-Erbmon-C3.pdb
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\obj\Debug\net7.0\Adios-Erbmon-C3.dll
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\obj\Debug\net7.0\refint\Adios-Erbmon-C3.dll
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\obj\Debug\net7.0\Adios-Erbmon-C3.pdb
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\obj\Debug\net7.0\Adios-Erbmon-C3.genruntimeconfig.cache
+C:\Users\Estudiante\Documents\Repositorios\Adios-Erbmon-C3\obj\Debug\net7.0\ref\Adios-Erbmon-C3.dll

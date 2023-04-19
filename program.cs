@@ -1,8 +1,9 @@
-Console.Writeline("Introduzca su nombre por favor");
+Console.WriteLine("Introduzca su nombre por favor");
 String nombre;
 nombre = Console.ReadLine();
-nombre[0];
-for (int i = 0; i < 10; i++)
+string reverse = "";
+for (int i = nombre.Length - 1; i >= 0; i--)
 {
-    Console.Write();
+    reverse += nombre[i];
 }
+    Console.WriteLine("Hola " + reverse);
